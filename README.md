@@ -2,4 +2,4 @@
 
 This is my first Git Repository
 <br>
-Author - Harsh Sharma (mern stack developer)
+Author - Harsh Sharma (Full stack developer)

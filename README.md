@@ -1,7 +1,7 @@
 # Hi, I'm Harsh Sharma 👋
 
 💼 Full-Stack Engineer | 🚀 Startup Experience | 🤖 AI/ML Practitioner  
-📈 3+ Years Industry Experience | Scalable Systems Builder  
+📈 5+ Years Industry Experience | Scalable Systems Builder  
 
 Full-Stack Developer with over three years of professional experience working in a startup environment (50+ member team), building and scaling production-grade applications serving **1,00,000+ users**.
 
